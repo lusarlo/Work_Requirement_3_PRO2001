@@ -1,5 +1,82 @@
 body {
   margin: 0;
+  min-width: 320px;
+  background-color: #aecea3;
+  color: #2d2827;
   font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
+}
+
+.game-gallery {
+  min-height: 100vh;
+  padding: 3.5rem 0 5rem;
+}
+
+.gallery-container {
+  max-width: 1120px;
+}
+
+.gallery-header {
+  margin: 0 auto 2.5rem;
+  max-width: 680px;
+  text-align: center;
+}
+
+.gallery-header h1 {
+  margin-bottom: 0.8rem;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.gallery-intro {
+  margin: 0;
+  color: #2d2827;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.game-card {
+  height: 100%;
+  overflow: hidden;
+  border: 1px solid #76506f;
+  border-radius: 1rem;
+  background-color: #fff;
+  box-shadow: 0 0.5rem 1.4rem #2d282712;
+}
+
+.game-card-image {
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+}
+
+.game-card .card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.25rem;
+}
+
+.game-card .card-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.game-card .card-text {
+  flex-grow: 1;
+  color: #2d2827;
+  line-height: 1.55;
+}
+
+.game-card .read-more-button {
+  align-self: center;
+  margin-top: 0.35rem;
+  border: 0;
+  border-radius: 999px;
+  background-color: #76506f;
+}
+
+.game-card .read-more-button:hover {
+  background-color: #442c3f;
 }
