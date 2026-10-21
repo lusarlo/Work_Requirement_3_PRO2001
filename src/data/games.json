@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Animal Crossing: New Horizons",
+    "description": "Build a home, meet friendly animal villagers, and shape your own island life in this cheerful simulation game.",
+    "image": "/img/animalcrossing.png",
+    "link": "https://animalcrossing.nintendo.com"
+  },
+  {
+    "name": "Coral Island",
+    "description": "Restore a tropical island, grow a thriving farm, and build friendships in this colorful life simulation game.",
+    "image": "/img/coralisland.png",
+    "link": "https://blog.stairwaygames.com/coral-island"
+  },
+  {
+    "name": "Gris",
+    "description": "Guide Gris through a beautiful world as she faces grief, discovers new abilities, and finds hope along the way.",
+    "image": "/img/gris.png",
+    "link": "https://nomada.studio/gris-game/"
+  },
+  {
+    "name": "Stardew Valley",
+    "description": "Build a new life on your grandfather's farm by growing crops, raising animals, and befriending the valley.",
+    "image": "/img/stardewvalley.png",
+    "link": "https://www.stardewvalley.net"
+  },
+  {
+    "name": "Unpacking",
+    "description": "Unpack belongings and arrange each home in this relaxing puzzle game that reveals a story through objects.",
+    "image": "/img/unpacking.png",
+    "link": "https://www.unpackinggame.com"
+  },
+  {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "description": "Explore a vast Hyrule, uncover Link's lost memories, and take on a quest to save the kingdom in this adventure.",
+    "image": "/img/zeldabreathofthewild.png",
+    "link": "https://zelda.nintendo.com/features/"
+  }
+]
